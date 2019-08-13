@@ -5,6 +5,7 @@ import Counter from './Counter';
 // import WithCount from './WithCount';
 
 export default class Application extends Component {
+
   render() {
     return (
       <main className="Application">
